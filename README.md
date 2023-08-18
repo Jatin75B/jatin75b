@@ -1,4 +1,7 @@
-<img src="https://thumbs.gfycat.com/ConsciousAmbitiousAntipodesgreenparakeet-size_restricted.gif" height="100" align="center"> 
+
+<p align="center">
+  <img src="https://img1.picmix.com/output/stamp/normal/9/7/5/0/2170579_8364c.gif" height="100" class="center"> 
+</p>
 <h1 align="center">I'm Jatin B</h1>
 <h3 align="center">I am a student at Ramaiah Institute of Technology with a proficiency in designing and aesthetics, with a passion for creating visually appealing solutions. I have some experience in machine learning and am skilled in managing teams and organizing successful events. My enthusiasm for learning drives me to stay up-to-date with new technologies and innovations.</h3>
 
@@ -6,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jatin75b](https://github.com/jatin75b)
 
-- 📝 I regularly write articles on [Life and life experience](Life and life experience)
+- 📝 I regularly write articles on Life and life experience
 
 - 📫 How to reach me **jatin75b@gmail.com**
 
