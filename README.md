@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jatin B</h1>
+<img src="https://thumbs.gfycat.com/ConsciousAmbitiousAntipodesgreenparakeet-size_restricted.gif" height="100" align="center"> 
+<h1 align="center">I'm Jatin B</h1>
 <h3 align="center">I am a student at Ramaiah Institute of Technology with a proficiency in designing and aesthetics, with a passion for creating visually appealing solutions. I have some experience in machine learning and am skilled in managing teams and organizing successful events. My enthusiasm for learning drives me to stay up-to-date with new technologies and innovations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin75b&label=No%20of%20people%20who%20witnessed&color=15077e&style=plastic" alt="jatin75b" /> </p>
