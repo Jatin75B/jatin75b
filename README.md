@@ -5,15 +5,16 @@
 <h1 align="center">Jatin B</h1>
 <h3 align="center">I am a student at Ramaiah Institute of Technology with a proficiency in designing and aesthetics, with a passion for creating visually appealing solutions. I have some experience in machine learning and am skilled in managing teams and organizing successful events. My enthusiasm for learning drives me to stay up-to-date with new technologies and innovations.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin75b&label=No%20of%20people%20who%20witnessed&color=15077e&style=plastic" alt="jatin75b" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jatin75b](https://github.com/jatin75b)
+## - 👨‍💻 All of my projects are available at [https://github.com/jatin75b](https://github.com/jatin75b) (Recursion Call)
 
-- 📝 I regularly write articles on <span style="color: blue;"> Life and Life Experience </span>
+## - 📝 I regularly write articles on <span style="color: blue;"> Life and Life Experience </span>
 
-- 📫 How to reach me **jatin75b@gmail.com**
+## - 📫 How to reach me **jatin75b@gmail.com** 
 
-- ⚡ Fun fact **I am Just A Thing In Nothing**
+## - ⚡ Fun fact **I am Just A Thing In Nothing**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
