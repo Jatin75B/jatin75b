@@ -1,8 +1,12 @@
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/9/7/5/0/2170579_8364c.gif" height="100" class="center"> 
+</p>-->
+<p align="center">
+  <img src="https://github.com/Jatin75B/jatin75b/blob/main/Name.gif" height="200" class="center"> 
 </p>
-<h1 align="center">Jatin B</h1>
+<!--<h1 align="center">Jatin B</h1>-->
+<hr>
 <h3 align="center">I am a student at Ramaiah Institute of Technology with a proficiency in designing and aesthetics, with a passion for creating visually appealing solutions. I have some experience in machine learning and am skilled in managing teams and organizing successful events. My enthusiasm for learning drives me to stay up-to-date with new technologies and innovations.</h3>
 
 
