@@ -35,6 +35,7 @@
 <h3 align="center">Blogs posts</h3>  
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Start Your First Blog?](https://medium.com/@jatin75b/how-to-start-your-first-blog-8b6d69f3a24a?source=rss-39dfed9da376------2)
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 <img src="https://github.com/Jatin75B/jatin75b/blob/main/1smaller.gif" height="100">
