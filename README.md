@@ -14,7 +14,7 @@
 
 ## - 👨‍💻 All of my projects are available at [https://github.com/jatin75b](https://github.com/jatin75b) (Recursion Call)
 
-## - 📝 I regularly write articles on <span style="color: blue;"> Life and Life Experience </span>
+## - 📝 I might write articles on <span style="color: blue;"> Life and Life Experience </span>
 
 ## - 📫 How to reach me **jatin75b@gmail.com** 
 
